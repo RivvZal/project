@@ -7,7 +7,7 @@ body {
 
 /* MAIN CONTENT */
 main {
-    background-image: url(/assets/background.png); 
+    background-image: url(assets/background.png); 
     background-size: cover;
     color: whitesmoke; 
     min-height: 100vh; 
